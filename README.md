@@ -21,12 +21,6 @@ By analyzing **EVM (Error Vector Magnitude)** and **BER (Bit Error Rate)** as fu
 - QPSK modulation with RRC pulse shaping
 - EDFA amplification with ASE noise modeling
 
-## Repository Contents
-- `notebook.ipynb` — full simulation code (Google Colab)
-- `figures/` — generated plots (EVM, BER, OSNR-like metric, spectral broadening, nonlinear threshold)
-- `report.pdf` — full project report (in Bosnian)
-- `requirements.txt` — Python dependencies
-
 ## How to Run
 1. Open the notebook in [Google Colab](https://colab.research.google.com) or locally with Jupyter
 2. Install dependencies:
